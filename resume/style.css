@@ -1,0 +1,20 @@
+body{
+    text-replace: p;groove {border-style: groove;};
+    background-image: url('https://img.freepik.com/premium-photo/abstract-natural-light-refraction-silhouette-water-surface-mock-upxacaustic-effect-light-refraction-white-wall-overlay-photo-mockup-blurred-sun-rays-refracting-through-glass-prism_284704-1506.jpg?w=360');
+    
+}
+img {
+    width: 300px;
+    height: 300px;
+    position:relative;
+    right: 28;
+    }
+    h2  {
+        color:rgb(164, 34, 204)
+        }
+    .headline {
+        color:rgb(231, 46, 61)
+    }
+[ href] {
+    color: magenta
+}
